@@ -1,0 +1,3 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1070.08606, 321.916016, 4362.56396)
+
+#These scripts should work on almost any executor, it works on synapse so genrally speaking they should work on regualr ones like krnl and Protosmasher and so on.....
