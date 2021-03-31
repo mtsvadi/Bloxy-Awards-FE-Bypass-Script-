@@ -1,0 +1,1 @@
+for i = 1, 100 do game:GetService("ReplicatedStorage").Events.RemoteEvents.ClawMachine:FireServer() end
